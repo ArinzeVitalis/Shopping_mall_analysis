@@ -179,6 +179,8 @@ What are they:
 - What discount range produced the best balance between sales and profit?
 
 <ins>1.	DID DISCOUNT INCREASE SALES</ins>
+![Total Sales Per Month](assets/images/Total Sales Per Month.jpg)
+<br>
 
 
 
