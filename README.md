@@ -47,10 +47,10 @@ The Head of Sales wants to find out how the discount introduced this year (2026)
 
 The Head of Sales at Exco Shoppin Mall introduced discount to purchases in January 2026 with the aim of increasing sales and retaining customers without tightening profit much.  Now, he wants to find out;
 
-- Did introducing discounts increase sales Performance?
-- Did discount improve customer retention?
-- What discount range generated the highest profit?
-- Which product categories benefited the most from discount?
+    - Did introducing discounts increase sales Performance?
+    - Did discount improve customer retention?
+    - What discount range generated the highest profit?
+    - Which product categories benefited the most from discount?
 
 With the sales record available (from Jan 2025 – June 2026), we’re going to use the discount given, sales recorded, profit generated and customer type. And we will compare the record from when the discount was introduced (Jan 2026) till date (June 2026) with previous record (Jan 2025 – Dec 2025).
 
