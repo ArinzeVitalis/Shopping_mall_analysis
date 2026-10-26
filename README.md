@@ -240,14 +240,19 @@ What are they:
         Customers Retention Rate in 2026 = (4775/9,182) x 100 = 52.00%
         Customer Retention Rate in 2026 was incredibly higher with 52%, as opposed to 5.13% in 2025.
         
-Which discount range generated the highest profit?
+<ins>Which discount range generated the highest profit?</ins>
 (use table diagram)
-Discount Category;
-5-10% = ₦1,971,562.2
-11-15% = ₦1,473,669.1
-16-20% = ₦1,666,185.2
-21-25% = ₦700,027.5
+
+        Discount Category;
+        5-10% = ₦1,971,562.2
+        11-15% = ₦1,473,669.1
+        16-20% = ₦1,666,185.2
+        21-25% = ₦700,027.5
+        
 As we see, giving a little discount of about 5-10% produced the highest profit.
+
+<ins>Which discount range produced the best balance between sales and profit?</ins>
+(use table diagram)
 
 
 <br>
