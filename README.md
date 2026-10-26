@@ -72,10 +72,64 @@ The data source is a first party data generated from ChatGPT.
     3.	Testing
     4.	Analysis
 
+<br>
+
+## DESIGN
+<ins>Dashboard components</ins>
+
+What should the dashboard contain based on the requirements provided? 
+To understand what it should contain, we need to figure out what questions we need the dashboard to answer:
+- Did discounts increase sales? 
+- Did discounts improve customer retention? 
+- Which products benefited most from discounts? 
+- Which customer segment responded best? 
+- Did profits rise or fall? 
+- What discount range produced the best balance between sales and profit?
+
+<ins>Dashboard Mockup</ins>
+- Monthly Sales (Line Chart) 
+- Stores (Clustered Column)
+- Sales by Product/Category (Horizontal bar Chart)
+- Top 10 products (Horizontal bar Chart)
+- Brand or Category contribution (Doughnut Chart)
+- Discount Cat (Pie Chart)
+- Customer Retention rate (Column Chart)
+
+<ins>Tools</ins>
+
+Microsoft excel was used to;
+- Explore the data
+- Clean, test and analyze the data
+- Visualize the data via interactive dashboards
+
+GitHub was used to host the project.
 
 <br>
 
-hubt
+## DEVELOPMENT
+<ins>Pseudocode</ins>
+1.	Get the data
+2.	Explore the data in Excel
+3.	Clean the data with Excel
+4.	Test the data with Excel
+5.	Visualize the data
+6.	Generate the findings based on the insights
+7.	Write the documentation + commentary
+8.	Publish the data to GitHub Pages
+
+<ins>Data Exploration notes</ins>
+•	It contained 3,618 rows with 29 columns.
+•	The customer ID matches each customer’s name so it won’t be needed and will be removed.
+•	The city column is not necessary since the store names are already here, likewise the payment and year column.
+•	Each store has only one salesperson per store.
+•	A new column,” Net Profit”, will be inserted to show the net profit, which is the deduction of discount amount from the profit.
+•	Another column (Year Half) was inserted to show what each half of the year had to show since the year we’ll be looking into is the first half of this year. We have to compare it with last year’s first half to avoid getting a wrong analysis.
+•	We tried to understand the “Purchase Type”, “Days since last purchase” and “Customer Retention” column as it’ll play a key role in finding how discount affected the retention of customers.
+
+
+
+
+<br>
 
 
 
