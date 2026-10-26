@@ -36,6 +36,7 @@ Impact of Discount Strategies on Sales Performance, Customer Retention, and Prof
 
 ## OBJECTIVE
 <ins>What is the key point?</ins>
+
 The Head of Sales wants to find out how the discount introduced this year (2026) affected sales. And wants to know if the discount has been effective or should be removed.
 <ins>To build a dashboard that shows the impact of the discount, it’ll include;</ins>
 -	Total sales after vs before
@@ -128,7 +129,7 @@ GitHub was used to host the project.
 
 <br>
 
-Data Cleaning
+<ins>Data Cleaning</ins>
 1.	Unnecessary columns were removed. 
     - Customer name - since we will be using the customer ID for our analysis.
     - Payment method – it holds no value or importance to our analysis.
@@ -163,8 +164,22 @@ We checked for Data validity to be sure each row and column meets the required d
 ## VISUALIZATION
 
 <ins>Dashboard</ins>
-![Dashboard](assets/images/Discount Strategy Performance  Dashboard New.jpg)
+![Dashboard](assets/images/Exco Shoppin Mall Dashboard.jpg)
 <br>
+
+## ANALYSIS
+Before we begin, we had some questions we set out to find the answers in this project.
+What are they:
+- Did discounts increase sales?
+- Did discounts improve customer retention?
+- Which products benefited most from discounts?
+- Which customer segment responded best?
+- Did profits rise or fall?
+- Which branch generated the highest revenue?
+- What discount range produced the best balance between sales and profit?
+
+<ins>1.	DID DISCOUNT INCREASE SALES</ins>
+
 
 
 <br>
