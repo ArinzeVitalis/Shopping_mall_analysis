@@ -59,10 +59,10 @@ With the sales record available (from Jan 2025 – June 2026), we’re going to 
 What is needed to achieve our objective? This will determine our data source.
 Since it is within the company, we will need the company’s Sales Data (Sales Record) that includes:
 
-•	discount given to customers
-•	sales recorded
-•	profit generated; and
-•	customer type
+- discount given to customers
+- sales recorded
+- profit generated; and
+- customer type
 
 The data source is a first party data generated from ChatGPT.
 
@@ -118,13 +118,13 @@ GitHub was used to host the project.
 8.	Publish the data to GitHub Pages
 
 <ins>Data Exploration notes</ins>
-•	It contained 3,618 rows with 29 columns.
-•	The customer ID matches each customer’s name so it won’t be needed and will be removed.
-•	The city column is not necessary since the store names are already here, likewise the payment and year column.
-•	Each store has only one salesperson per store.
-•	A new column,” Net Profit”, will be inserted to show the net profit, which is the deduction of discount amount from the profit.
-•	Another column (Year Half) was inserted to show what each half of the year had to show since the year we’ll be looking into is the first half of this year. We have to compare it with last year’s first half to avoid getting a wrong analysis.
-•	We tried to understand the “Purchase Type”, “Days since last purchase” and “Customer Retention” column as it’ll play a key role in finding how discount affected the retention of customers.
+- It contained 3,618 rows with 29 columns.
+- The customer ID matches each customer’s name so it won’t be needed and will be removed.
+- The city column is not necessary since the store names are already here, likewise the payment and year column.
+- Each store has only one salesperson per store.
+- A new column,” Net Profit”, will be inserted to show the net profit, which is the deduction of discount amount from the profit.
+- Another column (Year Half) was inserted to show what each half of the year had to show since the year we’ll be looking into is the first half of this year. We have to compare it with last year’s first half to avoid getting a wrong analysis.
+- We tried to understand the “Purchase Type”, “Days since last purchase” and “Customer Retention” column as it’ll play a key role in finding how discount affected the retention of customers.
 
 
 
