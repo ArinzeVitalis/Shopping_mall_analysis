@@ -210,13 +210,13 @@ What are they:
 
 <ins>6.	WHAT DISCOUNT RANGE PRODUCED THE BEST BALANCE BETWEEN SALES AND PROFIT?</ins>
 
-| Phone Brand | Phone Name               | Price (N) | Phone ROM | Phone RAM |
-| ----------- | ------------------------ | --------- | --------- |---------- |
-| SAMSUNG     | Samsung Galaxy Note 10+  | 264,000   | 256GB     | 8GB       |  
-| APPLE       | null                     | null      | null      | null      |  
-| TECNO       | Tecno Camon 40 CM5       | 244,800   | 256GB     | 8GB       |  
-| INFINIX     | Infinix Note 40          | 229,920   | 256GB     | 8GB       |  
-| XIAOMI      | XIAOMI Redmi 15C         | 233,899   | 256GB     | 8GB       | 
+| DISCOUNT CATEGORY | TOTAL SALES              | TOTAL PROFIT | SALES-PROFIT RATIO (%) |
+| ----------------- | ------------------------ | ------------ | ---------------------- |
+| 5-10%             | ₦5,116,004.0  | ₦1,971,562.2   | 38.53%    |
+| 11-15%            | ₦3,331,166.0                | ₦1,473,669.1      | 44.24%      | 
+| 16-20%            | ₦3,344,617.0       | ₦1,666,185.2   | 49.82%     | 
+| 21-25%            | ₦1,256,114.0          | ₦700,027.5   | 55.73%     |
+
 
 <br>
 
