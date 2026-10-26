@@ -252,6 +252,7 @@ What are they:
 As we see, giving a little discount of about 5-10% produced the highest profit.
 
 <ins>Which discount range produced the best balance between sales and profit?</ins>
+
 (use table diagram)
 
 | DISCOUNT CATEGORY | TOTAL SALES     | TOTAL PROFIT  | SALES-PROFIT RATIO (%) |
@@ -264,6 +265,16 @@ As we see, giving a little discount of about 5-10% produced the highest profit.
         We can see that much despite the discount range of 5-10% having more sales (₦5,116,004.0), the discount range of 21-25% has more balance between sales and profit with the profit amounting to 55.73% of the whole sales amount.
 
 <br>
+
+## DISCOVERY
+1.	Sales in 2026 (Jan-Jun) showed a 38.37% improvement, amounting to ₦13,047,901.
+2.	In the first half of 2025, only 344 customers were retained as opposed to the 4775 customers who were retained in the first half of 2026. With 2026 showing a 52% increase in the Customer Retention Rate, as opposed to the 5.13%.
+3.	The discount range between 5-10% generated the highest amount of profit (₦1,971,562.2), while the ranges between 21-25% showed the least amount of profit (₦700,027.5).
+4.	From the data we have, we got the table which shows that despite the 5-10% discount range having the highest profit (₦1,971,562.2), it did not produce the best balance with sales as its profit ratio is 3.85(38.5% of sales). But the discount range of 16-20% with the least profit (₦1,666,185.2), which is 4.98 (49.82% of the total sales).
+
+## RECOMMENDATION
+- From what we’ve seen, the discount needs to be continued in order to boost sales and retain customers.
+- Also, most discounts from now on should fall between 16-20% as it produced the best balance between sales and profit.
 
 
 <br>
