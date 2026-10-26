@@ -168,6 +168,9 @@ We checked for Data validity to be sure each row and column meets the required d
 ![Dashboard](assets/images/Exco Shoppin Mall Dashboard.jpg)
 <br>
 
+
+
+
 ## ANALYSIS
 Before we begin, we had some questions we set out to find the answers in this project.
 What are they:
@@ -198,6 +201,11 @@ What are they:
 <ins>4.	WHICH CUSTOMER SEGMENT RESPONDED BEST?</ins>
 
 ![Sum Of Quantity](assets/images/Sum Of Quantity.jpg)
+<br>
+
+<ins>5.	DID PROFITS RISE OR FALL?</ins>
+
+![Profits made](assets/images/Profits made.jpg)
 <br>
 
 
