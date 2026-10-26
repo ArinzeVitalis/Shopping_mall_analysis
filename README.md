@@ -164,21 +164,24 @@ We checked for Data validity to be sure each row and column meets the required d
 ## VISUALIZATION
 
 <ins>Dashboard</ins>
+
 ![Dashboard](assets/images/Exco Shoppin Mall Dashboard.jpg)
 <br>
 
 ## ANALYSIS
 Before we begin, we had some questions we set out to find the answers in this project.
 What are they:
-- Did discounts increase sales?
-- Did discounts improve customer retention?
-- Which products benefited most from discounts?
-- Which customer segment responded best?
-- Did profits rise or fall?
-- Which branch generated the highest revenue?
-- What discount range produced the best balance between sales and profit?
+
+    - Did discounts increase sales?
+    - Did discounts improve customer retention?
+    - Which products benefited most from discounts?
+    - Which customer segment responded best?
+    - Did profits rise or fall?
+    - Which branch generated the highest revenue?
+    - What discount range produced the best balance between sales and profit?
 
 <ins>1.	DID DISCOUNT INCREASE SALES</ins>
+
 ![Total Sales Per Month](assets/images/Total Sales Per Month.jpg)
 <br>
 
