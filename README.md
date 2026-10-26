@@ -262,7 +262,8 @@ As we see, giving a little discount of about 5-10% produced the highest profit.
 | 16-20%            | ₦3,344,617.0    | ₦1,666,185.2  | 49.82%                 | 
 | 21-25%            | ₦1,256,114.0    | ₦700,027.5    | 55.73%                 |
 
-        We can see that much despite the discount range of 5-10% having more sales (₦5,116,004.0), the discount range of 21-25% has more balance between sales and profit with the profit amounting to 55.73% of the whole sales amount.
+
+We can see that much despite the discount range of 5-10% having more sales (₦5,116,004.0), the discount range of 21-25% has more balance between sales and profit with the profit amounting to 55.73% of the whole sales amount.
 
 <br>
 
