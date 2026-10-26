@@ -155,11 +155,17 @@ Data Cleaning
 
 
 <ins>Data Testing</ins>
+
 We checked for Data validity to be sure each row and column meets the required data each should have.
 
 <br>
 
 ## VISUALIZATION
+
+<ins>Dashboard</ins>
+![Dashboard](assets/images/Discount Strategy Performance  Dashboard New.jpg)
+<br>
+
 
 <br>
 
