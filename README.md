@@ -1,8 +1,7 @@
 # IMPACT OF DISCOUNT STRATEGY ON SALES PERFORMANCE AND CUSTOMER RETENTION (JANUARY 2025 VS JUNE 2026)
 
 ### DESCRIPTION
-IMPACT OF DISCOUNT STRATEGY ON SALES PERFORMANCE AND CUSTOMER RETENTION: A CASE STUDY OF EXCO SHOPPING MALL
-(JANUARY 2025 VS JUNE 2026)
+Impact of Discount Strategies on Sales Performance, Customer Retention, and Profitability: A Case Study of Exco Shopping Mall. This project was carried out extensively with MS Excel and Power Query.
 
 <br>
 
