@@ -208,6 +208,15 @@ What are they:
 ![Profits made](assets/images/Profits made.jpg)
 <br>
 
+<ins>6.	WHAT DISCOUNT RANGE PRODUCED THE BEST BALANCE BETWEEN SALES AND PROFIT?</ins>
+
+| Phone Brand | Phone Name               | Price (N) | Phone ROM | Phone RAM |
+| ----------- | ------------------------ | --------- | --------- |---------- |
+| SAMSUNG     | Samsung Galaxy Note 10+  | 264,000   | 256GB     | 8GB       |  
+| APPLE       | null                     | null      | null      | null      |  
+| TECNO       | Tecno Camon 40 CM5       | 244,800   | 256GB     | 8GB       |  
+| INFINIX     | Infinix Note 40          | 229,920   | 256GB     | 8GB       |  
+| XIAOMI      | XIAOMI Redmi 15C         | 233,899   | 256GB     | 8GB       | 
 
 <br>
 
