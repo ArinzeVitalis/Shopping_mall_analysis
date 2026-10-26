@@ -21,7 +21,6 @@ Impact of Discount Strategies on Sales Performance, Customer Retention, and Prof
     - Data Quality Tests
 - VISUALIZATION
     - Results
-    - DAX Measures
 - ANALYSIS
     - Findings
     - Validation
@@ -162,6 +161,7 @@ We checked for Data validity to be sure each row and column meets the required d
 <br>
 
 ## VISUALIZATION
+### Results
 
 <ins>Dashboard</ins>
 
@@ -172,6 +172,8 @@ We checked for Data validity to be sure each row and column meets the required d
 
 
 ## ANALYSIS
+### Findings
+
 Before we begin, we had some questions we set out to find the answers in this project.
 What are they:
 
@@ -216,6 +218,36 @@ What are they:
 | 11-15%            | ₦3,331,166.0    | ₦1,473,669.1  | 44.24%                 | 
 | 16-20%            | ₦3,344,617.0    | ₦1,666,185.2  | 49.82%                 | 
 | 21-25%            | ₦1,256,114.0    | ₦700,027.5    | 55.73%                 |
+
+<br>
+
+### VALIDATION
+<ins>Did discounts increase sales?</ins>
+
+        Sales in 2025 (Jan – Jun) = ₦9,430,007
+        Sales in 2026 (Jan – Jun) = ₦13,047,901
+        Sales Performance = (2026 Sales – 2025 Sales)/2025 Sales
+        Sales Performance Ratio = (₦13,047,901 - ₦9,430,007)/₦9,430,007 = 0.3836576
+        Percentage increase = (₦13,047,901 - ₦9,430,007)/₦9,430,007 = 0.3836576 x 100 = 38.37%
+        Sales Performance was increased by 38.37% in 2026.
+
+<ins>Did discounts improve customer retention?</ins>
+
+        Customers Retained in 2025 (Total Customers) = 344 (6,704)
+        Customers Retained in 2026 (Total Customers) = 4775 (9,182)
+        Customers Retention Rate in Year (N) = (Customer Retained/Total No. of Customers) x 100
+        Customers Retention Rate in 2025 = (344/6,704) x 100 = 5.13%
+        Customers Retention Rate in 2026 = (4775/9,182) x 100 = 52.00%
+        Customer Retention Rate in 2026 was incredibly higher with 52%, as opposed to 5.13% in 2025.
+        
+Which discount range generated the highest profit?
+(use table diagram)
+Discount Category;
+5-10% = ₦1,971,562.2
+11-15% = ₦1,473,669.1
+16-20% = ₦1,666,185.2
+21-25% = ₦700,027.5
+As we see, giving a little discount of about 5-10% produced the highest profit.
 
 
 <br>
