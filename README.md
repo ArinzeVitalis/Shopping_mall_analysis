@@ -185,6 +185,20 @@ What are they:
 ![Total Sales Per Month](assets/images/Total Sales Per Month.jpg)
 <br>
 
+<ins>2.	DID DISCOUNTS IMPROVE CUSTOMER RETENTION? </ins>
+
+![Total Sales](assets/images/Total Sales.jpg)
+<br>
+
+<ins>3.	WHICH PRODUCTS BENEFITED MOST FROM DISCOUNTS?</ins>
+
+![Sum Of Purchase amount](assets/images/Sum Of Purchase amount.jpg)
+<br>
+
+<ins>4.	WHICH CUSTOMER SEGMENT RESPONDED BEST?</ins>
+
+![Sum Of Quantity](assets/images/Sum Of Quantity.jpg)
+<br>
 
 
 <br>
